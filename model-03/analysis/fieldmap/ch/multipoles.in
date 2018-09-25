@@ -19,8 +19,8 @@
 # the multipoles (m1,m2,...) to be calculated are defined by a list of position x exponents (n1,n2,...):
 # By = m1 * x^n1 + m2 * x^n2 + ...
 
-  multipoles_normal_field_fitting_monomials      (0,1,2,3,4,5,6)            # monomials to be included in the polynomial fit of multipoles
-  multipoles_skew_field_fitting_monomials        (0,1,2,3,4,5,6)
+  multipoles_normal_field_fitting_monomials    (0, 1, 2, 4, 6 ,8)
+  multipoles_skew_field_fitting_monomials      ()                  # monomials to be included in the polynomial fit of multipoles
 
 # grid of perpendicular points around each point of the reference trajectory for the polynomial fit of By and Bx
 

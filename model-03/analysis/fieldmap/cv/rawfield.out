@@ -1,0 +1,17 @@
+--- fieldmap ---
+timestamp:                          2018-05-23_08-33-49
+filename:                           2018-05-23_TB_Corrector_Model03_Sim_X=-18_18mm_Z=-200_200mm_Ich=0A_Icv=10A.txt
+magnet_label:                       TB
+magnet_length:                      40.0 mm
+main_coil_current:                  -- A
+main_coil_NI:                       None A
+ch_coil_current:                    0 A
+cv_coil_current:                    10 A
+magnetic_gap:                       40.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            37 points in [-18.0,18.0] mm (step of 1.000000 mm)
+rz_grid:                            401 points in [-200.0,200.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.00002 max:+0.00003) (min:-0.00000 max:+0.00000) Tesla
+bx@(all)(axis):                     (min:-0.04057 max:-0.00012) (min:-0.01906 max:-0.00013) Tesla
+bz@(all)(axis):                     (min:-0.02063 max:+0.02063) (min:-0.00000 max:+0.00000) Tesla

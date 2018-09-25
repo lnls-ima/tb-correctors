@@ -16,4 +16,4 @@
 
 # list with lengths of model segments
 
-   model_segmentation               (150.0/2,)
+   model_segmentation               (81.0/2,)

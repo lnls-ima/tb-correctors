@@ -12,9 +12,9 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label                      'model02-cv-3gev'
+  config_label                      'cv'
 
 
 # list with lengths of model segments
 
-   model_segmentation               (150.0/2,)
+   model_segmentation               (81.0/2,)
